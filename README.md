@@ -4,6 +4,32 @@
 - 파이어폭스 개발자도구의 스타일 탭사용
 - 기존 PC용 > 태블릿용 > 모바일용 CSS작업순서를 [모바일용 > 태블릿용 > PC용] 으로 변경작업
 
+#### 20201030(금)
+- @미디어쿼리
+- @=애노테이션=지시어
+- 웹프로그램 : 기본은 게시판(아래)
+- CRUD : Create(Insert-자료입력)
+- Read(Select-자료조회)
+- Update(자료수정)
+- Delete(자료삭제)
+
+#### 20201029(목)
+- bbs(PC통신부터 게시판약자 bbs) board system.
+- img는 가로크기를 지정하면, 세로크기는 자동으로 조정.
+- j쿼리: 네이티브 자바스크립트 단축키워드로 사용.
+- j쿼리 코어를 가져와서 사용.
+- 자바스크립트 콜백함수:(아래)
+- 이름이 없는 함수.
+- 기본함수는 이름을 호출해야지 실행이 되지만, 콜백함수는 호출없이 실행됨.
+- nav태그: html5 추가된 태그.
+->
+- ul(unorder list)태그 > li(list)태그
+- 네이밍규칙: 카멜표기(낙타등)
+- 사각형 영역 크기: box-sizing:border-box;
+- 웹접근성: 시각장애인들을 위한 코딩추가.
+- 스크린리더 프로그램용 코딩: 예, text-indent: -9999px;
+- 햄버거메뉴: .openMOgnb -> gnb(global navigation) 글로벌 네비게이션(전체 메뉴) Ps. Page Navigation   (페이징 링크 처리)
+
 #### 20201028(수)
 z-index : 화면에는 레이어라는 개념
 CSS스타일 적용하는 3가지 방법
@@ -22,7 +48,6 @@ CSS스타일 적용하는 3가지 방법
 깃허브 README.md(마크다운 언어)
 meta데이터: 데이터의 데이터임.(콘텐츠를 설명하는 데이터).
 메타태그중 viewport는 반응형사이트에서 필수.
-mnc is gold deager
 
 - 반응형사이트 화면설계서_학생용 구글ppt 다운받기(아래 구글링크):
 - https://drive.google.com/file/d/17jXgf7R2BawMt3K9eoxfnnO_8X9yClLZ/view?usp=sharing
